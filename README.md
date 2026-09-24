@@ -1,5 +1,5 @@
 # Operations Data Quality & Process Monitoring Dashboard
-
+![Operations Dashboard](./dashboard.png)
 ## Project Overview
 
 This project demonstrates an Excel-based operational monitoring and data quality analysis workflow using a simulated dataset of 200 operational records.
